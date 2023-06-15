@@ -1,2 +1,2 @@
-# guelcos-plataforma-cotacao
+# guelcos-plataforma-cotacao-backend
 Plataforma de cotação de importações
