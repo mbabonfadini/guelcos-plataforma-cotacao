@@ -1,0 +1,22 @@
+{
+  "name": "guelcos-plataforma-cotacao-backend",
+  "version": "1.0.0",
+  "description": "Case de projeto com equipe de desenvolvimento alunos DNC",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "\"Equipe alunos DNC - Marcos Bonfadini, Raphael Marques, Renato Carvalho, Victor yoshi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "swagger-ui-express": "^4.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
